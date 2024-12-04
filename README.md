@@ -1,7 +1,8 @@
-## I'm Aryan
+## I'm Aryan🌱
 I'm interested in all things programming!
 
 2x hackathon winner + game dev competetion winner 
+
 Languages: Python, C++, JavaScript, C#
 
 <!--
