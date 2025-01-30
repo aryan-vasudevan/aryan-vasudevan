@@ -1,5 +1,5 @@
 ## I'm Aryan🌱
-I'm interested in all things programming!
+Fullstack + DSA + ML
 
 2x hackathon winner + game dev competion winner 🥇
 
