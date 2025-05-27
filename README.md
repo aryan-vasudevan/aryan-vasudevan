@@ -1,7 +1,7 @@
 ## I'm Aryan🌱
 Fullstack + DSA + ML
 
-2x hackathon winner + game dev competion winner 🥇
+2x hackathon winner + game dev competition winner 🥇
 
 Languages: Python, C++, JavaScript, C# 💻
 
