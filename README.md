@@ -1,9 +1,9 @@
-## I'm Aryan🌱
+## I'm Aryan
 Fullstack + DSA + ML + Hardware
 
 2x hackathon winner + game dev competition winner 🥇
 
-Languages: Python, C++, JavaScript, C# 💻
+Python, C++, JavaScript, C# 💻
 
 <!--
 **aryan-vasudevan/aryan-vasudevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
