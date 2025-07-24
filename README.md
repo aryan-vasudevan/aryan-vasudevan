@@ -1,5 +1,5 @@
 ## I'm Aryan
-Fullstack + DSA + ML + Hardware
+Fullstack + ML + Hardware + Mobile!
 
 2x hackathon winner + game dev competition winner 🥇
 
