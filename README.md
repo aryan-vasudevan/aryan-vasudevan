@@ -2,7 +2,7 @@
 
 prev. ML Intern @Roboflow | 3x hackathon winner 🥇 | badminton 🏸
 
-[checkout my website!](https://aryanv.tech/)
+[website!](https://aryanv.tech/)
 
 
 
