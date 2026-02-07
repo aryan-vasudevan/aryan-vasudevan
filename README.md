@@ -1,9 +1,10 @@
 ## I'm Aryan
-Fullstack + ML + Hardware + Mobile!
 
-2x hackathon winner + game dev competition winner 🥇
+prev. ML Intern @Roboflow | 3x hackathon winner 🥇 | badminton 🏸
 
-Python, C++, JavaScript, C# 💻
+[checkout my website!](https://aryanv.tech/)
+
+
 
 <!--
 **aryan-vasudevan/aryan-vasudevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
