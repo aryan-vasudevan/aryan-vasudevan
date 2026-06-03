@@ -1,6 +1,6 @@
 ## I'm Aryan
 
-prev. ML Intern @Roboflow | 3x hackathon winner 🥇 | badminton 🏸
+Support Engineering Intern @Roboflow | 3x hackathon winner 🥇 | badminton 🏸
 
 [website!](https://aryanv.tech/)
 
