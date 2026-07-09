@@ -1,6 +1,6 @@
 ## I'm Aryan
 
-CS @University of Waterloo | Support Engineer Intern @Roboflow | 3x hackathon winner 🥇 | badminton 🏸
+CS @ University of Waterloo | Support Engineer Intern @Roboflow | 3x hackathon winner 🥇 | badminton 🏸
 
 [website!](https://aryanv.tech/)
 
